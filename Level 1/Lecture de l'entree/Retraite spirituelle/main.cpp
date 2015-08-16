@@ -1,0 +1,10 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+   int n;
+   cin>>n;
+   cout<<n*3600*16<<endl;
+}
