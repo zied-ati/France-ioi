@@ -1,0 +1,5 @@
+tentative <- lireEntier()
+Si tentative = 64741
+   Afficher "Bon festin !"
+Sinon
+   Afficher "Allez-vous-en !"

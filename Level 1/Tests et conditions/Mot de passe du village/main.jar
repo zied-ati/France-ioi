@@ -1,0 +1,12 @@
+import algorea.Scanner;
+class Main {
+   static Scanner entrée = new Scanner(System.in);
+   public static void main(String[] args) {
+      int tentative = entrée.nextInt();
+      if (tentative == 64741) {
+         System.out.println("Bon festin !");
+      } else {
+         System.out.println("Allez-vous-en !");
+      }
+   }
+}
