@@ -1,0 +1,9 @@
+let tentative = read_int() in
+if tentative = 64741 then
+begin
+   print_endline "Bon festin !";
+end
+else
+begin
+   print_endline "Allez-vous-en !";
+end;

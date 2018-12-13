@@ -1,0 +1,12 @@
+void main()
+{
+   int tentative = readInt();
+   if (tentative == 64741)
+   {
+      println("Bon festin !");
+   }
+   else
+   {
+      println("Allez-vous-en !");
+   }
+}
